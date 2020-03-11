@@ -1,0 +1,328 @@
+{
+  "nombre": "Albino Rhoa Feather",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/7/7f/Albino_Rhoa_Feather_inventory_icon.png/39px-Albino_Rhoa_Feather_inventory_icon.png?version=6f3acd602644fb157047f55191b54264",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Shift click to unstack."
+}
+{
+  "nombre": "Armourer's Scrap",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/8/88/Armourer%27s_Scrap_inventory_icon.png/39px-Armourer%27s_Scrap_inventory_icon.png?version=771e5cb89f451b904edb51d184ebb225",
+  "dropLevel": "1",
+  "stackSize": "40",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an armour to apply it. Has greater effect on lower-rarity armours. The maximum quality is 20%.Shift click to unstack."
+}
+{
+  "nombre": "Awakened Sextant",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/b/b2/Awakened_Sextant_inventory_icon.png/39px-Awakened_Sextant_inventory_icon.png?version=adad59aa30df74e579080c8389bc5b67",
+  "dropLevel": "78",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a Watchstone to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Blacksmith's Whetstone",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/1/1c/Blacksmith%27s_Whetstone_inventory_icon.png/39px-Blacksmith%27s_Whetstone_inventory_icon.png?version=d18950878b30ea35213d6ea404108871",
+  "dropLevel": "1",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a weapon to apply it. Has greater effect on lower-rarity weapons. The maximum quality is 20%.Shift click to unstack."
+}
+{
+  "nombre": "Bestiary Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/5/58/Bestiary_Orb_inventory_icon.png/39px-Bestiary_Orb_inventory_icon.png?version=3159b7bf303884ba0232fa1e71f1438c",
+  "dropLevel": "15",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click on this item then left click on a Beast in your Menagerie to turn it into a tradable item.Shift click to unstack."
+}
+{
+  "nombre": "Blessing of Chayula",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/9/9e/Blessing_of_Chayula_inventory_icon.png/39px-Blessing_of_Chayula_inventory_icon.png?version=048c52350128cfbe5d1f831a8bf6a777",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an applicable breach unique item to upgrade it.Shift click to unstack."
+}
+{
+  "nombre": "Blessing of Esh",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/1/17/Blessing_of_Esh_inventory_icon.png/39px-Blessing_of_Esh_inventory_icon.png?version=2f655ddc8a6c5a5b30db71a3c7a61fba",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an applicable breach unique item to upgrade it.Shift click to unstack."
+}
+{
+  "nombre": "Blessed Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/d/de/Blessed_Orb_inventory_icon.png/39px-Blessed_Orb_inventory_icon.png?version=800788da75432054a878fde213a1117a",
+  "dropLevel": "35",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click another item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Blessing of Tul",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/3/35/Blessing_of_Tul_inventory_icon.png/39px-Blessing_of_Tul_inventory_icon.png?version=b3fed442acfa989e61c781c11b2abff1",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an applicable breach unique item to upgrade it.Shift click to unstack."
+}
+{
+  "nombre": "Blessing of Uul-Netol",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/6/64/Blessing_of_Uul-Netol_inventory_icon.png/39px-Blessing_of_Uul-Netol_inventory_icon.png?version=e9bddbc4d2d976c91a19673559a28d9c",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an applicable breach unique item to upgrade it.Shift click to unstack."
+}
+{
+  "nombre": "Cartographer's Chisel",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/5/55/Cartographer%27s_Chisel_inventory_icon.png/39px-Cartographer%27s_Chisel_inventory_icon.png?version=ffc158898a13c0f1f3412f33d3574fc2",
+  "dropLevel": "52",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a map to apply it. Has greater effect on lower-rarity maps. The maximum quality is 20%.Shift click to unstack."
+}
+{
+  "nombre": "Chromatic Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/f/fd/Chromatic_Orb_inventory_icon.png/39px-Chromatic_Orb_inventory_icon.png?version=ab57ee04b32446ffdead6af4f47d5002",
+  "dropLevel": "2",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a socketed item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Blessing of Xoph",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/c/c9/Blessing_of_Xoph_inventory_icon.png/39px-Blessing_of_Xoph_inventory_icon.png?version=7c8f4ad83680081c5119e06b3d42fccb",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an applicable breach unique item to upgrade it.Shift click to unstack."
+}
+{
+  "nombre": "Chaos Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/9/9c/Chaos_Orb_inventory_icon.png/39px-Chaos_Orb_inventory_icon.png?version=eaad0090b8f6087b3f389efbb17312af",
+  "dropLevel": "12",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a rare item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Divine Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/5/58/Divine_Orb_inventory_icon.png/39px-Divine_Orb_inventory_icon.png?version=c5e7996b35880019e793ffac51f6a7de",
+  "dropLevel": "35",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a magic, rare or unique item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Exalted Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/2/26/Exalted_Orb_inventory_icon.png/39px-Exalted_Orb_inventory_icon.png?version=62656e9805b6cce73ef68ae4a5442c62",
+  "dropLevel": "35",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a rare item to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Crusader's Exalted Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/9/95/Crusader%27s_Exalted_Orb_inventory_icon.png/39px-Crusader%27s_Exalted_Orb_inventory_icon.png?version=e843e688dcbf8901c31f32ba2865e237",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Glassblower's Bauble",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/b/bc/Glassblower%27s_Bauble_inventory_icon.png/39px-Glassblower%27s_Bauble_inventory_icon.png?version=6174847babcccc9c0115b5e8085701e9",
+  "dropLevel": "2",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a flask to apply it. Has greater effect on lower-rarity flasks. The maximum quality is 20%.Shift click to unstack."
+}
+{
+  "nombre": "Hunter's Exalted Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/e/e2/Hunter%27s_Exalted_Orb_inventory_icon.png/39px-Hunter%27s_Exalted_Orb_inventory_icon.png?version=8a8c0cedd32cbca2aab332ac973bde7e",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Gemcutter's Prism",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/e/e2/Gemcutter%27s_Prism_inventory_icon.png/39px-Gemcutter%27s_Prism_inventory_icon.png?version=19568ad65abb2022708351dd6e1826ce",
+  "dropLevel": "12",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a gem to apply it. The maximum quality is 20%.Shift click to unstack."
+}
+{
+  "nombre": "Mirror of Kalandra",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/9/9c/Mirror_of_Kalandra_inventory_icon.png/39px-Mirror_of_Kalandra_inventory_icon.png?version=c5bf58ceef86f71e861a511d281f13dc",
+  "dropLevel": "35",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an equipable non-unique item to apply it. Mirrored copies cannot be modified.Shift click to unstack."
+}
+{
+  "nombre": "Jeweller's Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/4/49/Jeweller%27s_Orb_inventory_icon.png/39px-Jeweller%27s_Orb_inventory_icon.png?version=09db02b1c7c10bca82e6ca1c6a00afc4",
+  "dropLevel": "8",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a socketed item to apply it. The item's quality increases the chances of obtaining more sockets.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Alteration",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/d/d8/Orb_of_Alteration_inventory_icon.png/39px-Orb_of_Alteration_inventory_icon.png?version=721ef48b04c802888309e8a13b46ec0f",
+  "dropLevel": "2",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a magic item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Annulment",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/4/4c/Orb_of_Annulment_inventory_icon.png/39px-Orb_of_Annulment_inventory_icon.png?version=1348925258fbc8f56c32b79bf60af7e3",
+  "dropLevel": "35",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click on a magic or rare item to apply it. The item's Catalyst quality decreases the chance of removing a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Alchemy",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/9/9f/Orb_of_Alchemy_inventory_icon.png/39px-Orb_of_Alchemy_inventory_icon.png?version=ab3d06f3e2affd55cfbd56f68f470cdc",
+  "dropLevel": "2",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a normal item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Augmentation",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/c/cb/Orb_of_Augmentation_inventory_icon.png/39px-Orb_of_Augmentation_inventory_icon.png?version=732b6531345084f918c7a0cb96f49a60",
+  "dropLevel": "1",
+  "stackSize": "30",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a magic item to apply it. Magic items can have up to two random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 2% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Fusing",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/6/62/Orb_of_Fusing_inventory_icon.png/39px-Orb_of_Fusing_inventory_icon.png?version=b13c77bee2c59ca0359ccb254af3fae0",
+  "dropLevel": "8",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a socketed item to apply it. The item's quality increases the chances of obtaining more links.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Chance",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/8/86/Orb_of_Chance_inventory_icon.png/39px-Orb_of_Chance_inventory_icon.png?version=22d80eb6415895a3fbc513bdc80275e9",
+  "dropLevel": "2",
+  "stackSize": "20",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a normal item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Scouring",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/5/51/Orb_of_Scouring_inventory_icon.png/39px-Orb_of_Scouring_inventory_icon.png?version=74abda2baf4cc98e2c6f766c7ce475d6",
+  "dropLevel": "12",
+  "stackSize": "30",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click on a magic or rare item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Transmutation",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/6/67/Orb_of_Transmutation_inventory_icon.png/39px-Orb_of_Transmutation_inventory_icon.png?version=68329f508a47a4a7aa392d2d8b2ab862",
+  "dropLevel": "1",
+  "stackSize": "40",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a normal item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Orb of Regret",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/a/a8/Orb_of_Regret_inventory_icon.png/39px-Orb_of_Regret_inventory_icon.png?version=122ff9c4c4abff27f2a1bff8ce6d7f89",
+  "dropLevel": "2",
+  "stackSize": "40",
+  "tabStackSize": "5000",
+  "helpText": "Right click on this item to use it.Shift click to unstack."
+}
+{
+  "nombre": "Portal Scroll",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/e/e5/Portal_Scroll_inventory_icon.png/39px-Portal_Scroll_inventory_icon.png?version=4183da2846dce589d2c91b9095442158",
+  "dropLevel": "2",
+  "stackSize": "40",
+  "tabStackSize": "5000",
+  "helpText": "Right click on this item to use it.Shift click to unstack."
+}
+{
+  "nombre": "Prime Sextant",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/4/40/Prime_Sextant_inventory_icon.png/39px-Prime_Sextant_inventory_icon.png?version=5b530645f420ef11c205fb3f14f496e9",
+  "dropLevel": "73",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a Watchstone to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Redeemer's Exalted Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/6/6f/Redeemer%27s_Exalted_Orb_inventory_icon.png/39px-Redeemer%27s_Exalted_Orb_inventory_icon.png?version=3d48e5fd3d3c816514e9d3c1c6f22154",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Silver Coin",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/f/f7/Silver_Coin_inventory_icon.png/39px-Silver_Coin_inventory_icon.png?version=4d87f1ae507aac582a2e5fef20afce3f",
+  "dropLevel": "1",
+  "stackSize": "30",
+  "tabStackSize": "5000",
+  "helpText": "Cross Navali's palm with silver to receive a prophecy.Shift click to unstack."
+}
+{
+  "nombre": "Scroll of Wisdom",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/b/b6/Scroll_of_Wisdom_inventory_icon.png/39px-Scroll_of_Wisdom_inventory_icon.png?version=b6fa9574a516ebdccb1ecd13e50a7f73",
+  "dropLevel": "1",
+  "stackSize": "40",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an unidentified item to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Simple Sextant",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/c/c7/Simple_Sextant_inventory_icon.png/39px-Simple_Sextant_inventory_icon.png?version=48b33d6aad49a3b3118c1ffd363cab14",
+  "dropLevel": "68",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a Watchstone to apply it.Shift click to unstack."
+}
+{
+  "nombre": "Regal Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/3/33/Regal_Orb_inventory_icon.png/39px-Regal_Orb_inventory_icon.png?version=8af46235e535d7f464a65b9a2d6d1f98",
+  "dropLevel": "12",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a magic item to apply it. Current modifiers are retained and a new one is added. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 5% Quality applied by Catalysts on use.Shift click to unstack."
+}
+{
+  "nombre": "Stacked Deck",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/6/60/Stacked_Deck_inventory_icon.png/39px-Stacked_Deck_inventory_icon.png?version=9e783cc670a61824085a5c10eac07722",
+  "dropLevel": "50",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click to take a divination card out of the deck.Shift click to unstack."
+}
+{
+  "nombre": "Vaal Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/2/2c/Vaal_Orb_inventory_icon.png/39px-Vaal_Orb_inventory_icon.png?version=95f09c0e1acb616f36ba32b81277437d",
+  "dropLevel": "12",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click an item to corrupt it. Corrupted items cannot be modified again.Shift click to unstack."
+}
+{
+  "nombre": "Warlord's Exalted Orb",
+  "icono": "https://gamepedia.cursecdn.com/pathofexile_gamepedia/thumb/d/de/Warlord%27s_Exalted_Orb_inventory_icon.png/39px-Warlord%27s_Exalted_Orb_inventory_icon.png?version=376929dae9748f64d96fa1c7e193adf4",
+  "dropLevel": "1",
+  "stackSize": "10",
+  "tabStackSize": "5000",
+  "helpText": "Right click this item then left click a high-level rare item with no influence to apply it. Rare items can have up to six random modifiers. The item's Catalyst quality increases the chance of applying a modifier which matches the quality type. Removes 20% Quality applied by Catalysts on use.Shift click to unstack."
+}
